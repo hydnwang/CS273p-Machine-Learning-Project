@@ -1,9 +1,5 @@
 ## Readme
 
-### Team members
-Li-Yan Wang 11004461
-Pin-Ying Wu 37723788
-
 
 ### Requirements
 matplotlib: 2.2.2
